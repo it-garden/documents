@@ -1,0 +1,71 @@
+* 12/12 @ Teknikum with "Fritidsfolket"
+** MEETING NOTES
+*** How are we going to do this?
+    - How to reach the targeted youth (13-16 yrs old)?
+      - Putting up posters
+      - Fritidsgårdfolk can help as many of them are there
+        - We can come there and talk.
+        - They can come to us for events and such
+      - Fagrabäckskolan, that has strong connection with Teknikum
+
+*** What to teach? 
+    - Arduino
+    - micro:bits (Daniel)
+    - Codecademy.com
+      - 7 days free trial can be used
+      - Secondary option after the above points
+    - What ever it is, it needs to be capturing.
+    - Having two levels of our courses
+      - When marketing, we say that we have things for beginners and novices.
+      - Amin Farhan, machine engineer at Fagrabäck knows what the students know, what they like and what best to teach them.
+        - Johan from Teknikum knows the programming of robots they do there.
+      - *Level one (rookie):*
+        - Johan takes responsibility
+        - Programming of micro:bits
+      - *Level two (novice)*:
+        - Programming of arduino
+
+*** When are we starting?
+    - Beginning of next semester?
+      - Some practical things needs to be checked
+    - 31/01-19 is decided.
+
+*** How much do our targeted youth know?
+    - Fagrabeck offers programming, scratch, blueberry, micro:bit, 
+
+*** Marketing
+    - Teknikum and Visma can print things
+      - Correct Poster(s) and send to Magnus
+    - Need logos of teknikum and Växjö kommun
+      (Has been sent to Marcus that will upload to github repo.)
+
+*** Meetings to have
+    - With Amin (fabrabäck) and other mentors.
+      - When?:  09/01-19 15:30 @ Teknikum (barracks behind Teknikum)
+      - About?: What our targeted youth knows and want to know. 
+                Planning of "Teknikum Thursday's".
+
+*** What do we need?
+    - Teknikum got things to use. How much and what, will be checked.
+      - Stationary computers available
+    - Visma might have "old" computers to lend
+
+*** Sponsors
+**** Current
+     - *Visma*
+       * Lend us old computers
+       * Help with printing
+       * Salary for leaders?
+
+**** Potential
+     - Kultur- och fritidsförvaltningen
+       - Prata med Jakob Gustavsson
+         - Vi behöver vara kopplade till ett riksförbund m.m.
+       - Homepage: https://goo.gl/A8t9cV
+     - Marcus is going to an event hosted by "Tillväxtverket (ERUF) and Region Kronoberg, aimed at helping projects on how to get founds from different sources.
+        - 10/01-19 , https://goo.gl/ta6Yxd
+
+*** How do we get salary for the Mentors/Leaders?
+    - Magnus will ask and check "up the chain of command"
+    - From our sponsores?
+      - Check with Kultur- och fritidsförvaltningen
