@@ -1,0 +1,79 @@
+# Table of contents
+#+OPTIONS: toc:nil
+
+# Section numbering
+#+OPTIONS: num:nil
+
+# Number of headings to export
+#+OPTIONS: H:4
+
+# Disable super/subscripting
+#+OPTIONS: ^:nil
+
+* Styrelseprotokoll
+Styrelseprotokoll för IT-Gården. \\
+Organisationsnummer: 802521-1387 \\
+Datum: 2019-3-5 \\
+Tid: 13:00 \\
+Plats:  Linnéuniversitetet, D1167 \\
+
+** § 1 Mötets Öppnande
+Mötet öppnades.
+
+** § 2 Närvarande
+Fartun Jama
+Marcus Mueller
+Amata Anantaprayoon
+Cristian Babes
+
+** § 2 Val av mötesordförande
+Marcus Mueller valdes som mötesordförande.
+
+** § 3 Val av mötessekreterare
+Amata Anantaprayoon valdes som mötessekreterare.
+
+** § 3 Val av justerare
+Cristian Babes
+
+** § 4 Godkännande av dagordning
+Dagordning godkänns av alla.
+
+
+** § 5 Senaste mötesprotokoll
+Vi tog upp skapande av nytt material för micro:bit samt Arduino. Beslut togs att alla gör var sin övning för en utvald feature av micro:bit.
+
+** § 6 Beslut om företrädare gentemot Swedbank AB
+Styrelsen beslutar att följande person/personer får:
+  - Företräda föreningen enligt Swedbanks Fullmakt ideell förening som fullmaktshavare
+  - Skriva under blanketterna Ansökan ideell förening/Begäran om ändring för ideell förening gentemot Swedbank samt Fullmakt ideell förening, enligt ovan, som fullmaktsgivare
+  - Företräda enligt ovan två i förening
+    - Marcus Mueller 19850816-1950
+    - Haneen Mohialdeen 19940219-1044
+    - Cristian Babes 19970809-5337
+
+** § 7 Beslut om användare och behörighetsadministratörer för Swedbanks internetbank en för företag
+  - Styrelsen beslutar att följande personer ska vara företagsanvändare/behörighetsadministratör för föreningen i internetbanken
+    - Marcus Mueller 19850816-1950 som administratör
+    - Haneen Mohialdeen 19940219-1044 som administratör 
+    - Cristian Babes 19970809-5337 som administratör
+
+** § 9 Mötets avslutande
+Mötet avslutades
+
+
+** Mötesordförande
+
+
+----------------------------------------------
+
+
+** Mötessekreterare
+
+
+----------------------------------------------
+
+
+** Justeringsperson
+
+
+----------------------------------------------
