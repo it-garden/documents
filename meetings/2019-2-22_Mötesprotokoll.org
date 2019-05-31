@@ -12,14 +12,19 @@ Amata Anantaprayoon
 Fartun jama
 Haneen Mohialdeen
 Marcus Mueller
+
 ** § 3 Val av justerare
 Haneen Mohialdeen
+
 ** § 4 Godkännande av dagordning
 Godkänd
+
 ** § 5 Senaste mötesprotokoll
 Förra mötet var snabbt ihopsatt i syfte att kunna få alla nödvändiga dokument för öppnande av bankkonto. Vi behöver idag gå igenom komplettering av bankärende.
+
 ** § 6 Utvecklande av material
 Vid frågan av vad de vill lära sig svarade flera javascript/web development.
+
 Hur ska vi lära ut detta?
   - Förslag 1: codecademy.com (Först 7days free trial, sedan sponsorer att betala konton?) $19.99/månad
   - Förslag 2: VScode + w3schools.com (gratis men kräver VScode på datorerna)
@@ -35,7 +40,9 @@ Att skapa:
   - Knappar
 
 En mall för dessa vore också bra. Befintliga kan användas i detta syfte tills vidare.
+
 Vad finns det för roliga addons/extras vi kan köpa in till våra micro:bits?
+
 Micro bit webbsida. 
 Använda micro:bits projects bok och skapa roliga project (Amata)
 
@@ -51,19 +58,30 @@ En plats och dokument för tidsrapportering behövs skapas.
 Vi behöver besluta om jobbade timmar ska betalas ut när möjlighet finns.
 
 Vi röstar på att vi kommer betala till lederna som har jobbat under de senaste veckorna.
+
 ** § 8 Marknadsföring
 Det är snart dags att sprida information om oss och vad vi gör. Eftersom vi fortfarande formas och utvecklas varje vecka så kanske vi inte ska förhasta oss. Dock finns det saker att göra samt kommande upplägg att planera.
+
 De intresserade av att hjälpa till med att hålla vår FB sida aktiv skickar sin FB email till Marcus M för att bli “editor” av sidan.
+
 Ta bilder/videos för senare användning
+
 Förtydligande av våra mål och vad vi gör för att uppnå dem
+
 Alla ledare hjälper till att hålla vår FB aktive. 
+
 ** § 9 gdrive
 Vi använder just nu en google drive där vi samlar allt IT-Gården relaterat. Se till att alla är inbjudna. Skapa även nödvändiga dokumenten för: tidrapport, veckoplanering, deltagare (vilka som kom till gården vid tillfällen). Marcus tar hand om detta.
+
 ** § 10 Övrigt
 Skapa en webbsida samt domän (github?)
+
 Tisdag den 26/2 Marcus ska prata med studien främmande om studiecirkel.
+
 Main task now is to fix the bank application and send it back to stockholm.
+
 One of us need to go to KET meeting + talk with Diana about it. We need sponsor!  
+
 ** § Mötets avslutande
 Mötet avslutades
 

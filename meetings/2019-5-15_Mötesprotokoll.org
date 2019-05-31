@@ -1,0 +1,82 @@
+# Table of contents
+#+OPTIONS: toc:nil
+
+# Section numbering
+#+OPTIONS: num:nil
+
+# Number of headings to export
+#+OPTIONS: H:4
+
+# Disable super/subscripting
+#+OPTIONS: ^:nil
+
+* Board Meeting
+
+Board meeting protocol for IT-Gården. \\
+Organisation number: 802521-1387 \\
+Date:  2019-05-15 \\
+Time: 14:27 \\
+Location:  Videum Science Park \\
+
+** § 1 Opening
+Marcus welcomed everybody and meeting was opened.
+
+** § 2 Attendance
+Fartun Jama
+Marcus Mueller
+Amata Anantaprayoon
+Cristian Babes
+Haneen Mohialdeen
+
+** § 3 Approval of Agenda
+Agenda was approved.
+
+** § 4 Review of Previous Agenda
+Marcus went through last meeting's agenda.
+
+** § 5 Youth Recreation Center
+Currently we are not doing anything to increase participation.
+
+  - Do we want to continue in Teknikum?
+    - If yes, how do we plan to increase participation?
+
+  - Do we instead move to our temporarily available Videum Science Park facility for the remaining months of this year?
+    - Currently waiting on response from Softwerk if we can stay until end of the year.
+
+  - Can we do both?
+    - If we got funding (such as from ESF with help of Studiefrämjandet), I think we could do both and improve both places.
+    - Time is always an issue for us, as we all study full-time.
+
+*DECISION*
+  - Yes for now, but maybe not after summer. We'll decide during summer.
+  - During that time we will ask our participants who they feel about it.
+
+** § 6 Tax Declaration
+We have to decide who in the organisation that will be able to view and handle our tax declaration account. This is done by sending in the "SKV 4809" form to skatteverket.
+
+*Proposal:* Marcus Mueller (President) and Haneen Mohialdeen (Treasurer), both being authorised signatory (firmatecknare) for IT-Gården, should be allowed to handle tax declarations.
+
+*Votes*:
+  - Agree: 5 votes
+
+  - Disagree: 0 votes
+
+*Result:*
+Proposal was unanimously approved.
+
+** § 7 Discord
+Shall we create a Discord channel?
+
+*DECISION*
+Yes.
+
+** § 8 About The Summer
+   - Preparations for the summer camp.
+
+   - Sommaröppet (Summer Open)
+
+** § 9 Other Business
+No.
+
+** § Adjournment
+Meeting was adjourned.
