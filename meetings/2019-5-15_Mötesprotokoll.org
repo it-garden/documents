@@ -49,7 +49,7 @@ Currently we are not doing anything to increase participation.
 
 *DECISION*
   - Yes for now, but maybe not after summer. We'll decide during summer.
-  - During that time we will ask our participants who they feel about it.
+  - During that time we will ask our participants how they feel about it.
 
 ** § 6 Tax Declaration
 We have to decide who in the organisation that will be able to view and handle our tax declaration account. This is done by sending in the "SKV 4809" form to skatteverket.
