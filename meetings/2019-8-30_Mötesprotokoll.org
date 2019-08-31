@@ -1,0 +1,131 @@
+# Table of contents
+#+OPTIONS: toc:nil
+
+# Section numbering
+#+OPTIONS: num:nil
+
+# Number of headings to export
+#+OPTIONS: H:4
+
+# Disable super/subscripting
+#+OPTIONS: ^:nil
+
+* Board Meeting
+Board meeting protocol for IT-Gården. \\
+Organisation number: 802521-1387 \\
+Date: 2019-08-30 \\
+Time: 14:15\\
+Location: ITG Office (Videum Science Park) \\
+
+** § 1 Opening
+Marcus welcomed everybody and meeting was opened.
+
+** § 2 Attendance
+Fartun Jama
+Marcus Mueller
+Amata Anantaprayoon
+Cristian Babes
+Ruslan Abdulin
+
+** § 3 Approval of Agenda
+Agenda was approved at 14:24
+
+** § 4 Review of Previous Agenda
+- Do we want to continue have the open house in Teknikum?
+  - Still needs to be decided.
+- We are suppose to ask our "member" if they are okey if we going to have open house in Videum instead (Not done yet)
+- Summer camp.
+- Tax accout.
+
+** § 5 Summer Review
+- Short extraction on what happened and what we learned
+  - We luckly got Ruslan to help out, getting preperations done just in time.
+  - We was on the news website (smp.se)!
+  - we got really GOOD FEEDBACK !!!
+  - GOOD:
+    - many kids came, we didn't have enough space everyone (refuse 2 kids)
+  - Bad:
+    - We DO NEED to be aware about which kid we can take picture.
+      - We need to create a photo permission document and let the partens sign on in (Cristian will take care of it)
+
+- Will we have it next year to?
+  We will talk about it next time but looks like we going to have it next year too.
+  - How can we make it better?
+
+** § 6 The Workshop
+- What is it?
+  - extent microbit workshops
+  - get 3d printer so we print stuff for microbit workshop
+- What can it become?
+  - robot ? drone ?
+- What can we do with it?
+  - some thing to be show to the media/our sponser
+
+
+** § 7 ITG Playground (web app)
+- What is it?
+  - Ruby web app (LAN)
+    - have it as our "lecture" web site instead of read a README.md in github.
+  - Playground for our member and ourselft.
+  - Complete the "quest" -> get exp -> level up -> get reward (a real reward if we get sponser).
+  - User can also create "quest".
+- What can it be used for?
+- Will have a Slack channel to talk further about it
+- Tournament (game/ctf)
+
+** § 8 Budget & Salary
+- How's current budget?
+  - We are behind in paying out salaries.
+  - Haneen + Marcus will create a budget.
+- Unpaid hours.
+  - Teknikum hours still didn't payout yet.
+  - Salaries for summercamp preparations not paid out yet.
+  - Marcus will look at options to stabalize economics for future.
+  - Individual tax amount for each leader needs to be sent after.
+
+** § 9 Other Business
+- From meeting with Marcelo (EduTech at LNU)
+  - Opportunities and a chanse to grow/stabalize
+    - 360 degree video project
+    - microbit growhouse
+    - microbits connected to sensors to create "weather station"
+    - they are also using "micropython"
+    - testing out different microprocessors (microbit/engino) and making content for each so they can decide on which one to continue using.
+    - These projects and more will open up opportunities for us to join them on events and such abroad, do show/talk about our findings and more. (China, Hongkong, Amsterdam,...)
+    - https://avmedia.kronoberg.se/make-it-happen/
+    - Our first "job" (uppdrag) would be to assist teachers that will have microbit workshops in Tingsryd and Uppvidinge this semester; for a totol of about 100-120 hours with two "helpers" for each occasion. We need to tell Marcelo how much we would like to be payed for this, asap.
+- We need to tell Marcelo how much we'd like for providing our service for this first job.
+  - Traveling cost? are they going to pay us?
+  - Will we count travel time as working time?
+
+  - How this all also connects to Videum, that they have projects together with, and our need to get in contact with Claes.
+
+- Finding permanent localtion (options):
+  - Castellum
+  - WXO project
+  - Videum + (LUN EduTech)
+  - Studiefrämjandet 
+
+- Hint from our sponser:
+  - We need a proper long plan and structure for how the organisation is run.
+
+- Suggestion for creating a repository, "current state of ITG".
+  - All though it was a good idea. The current private it-gården repo, or a new one, will be used.
+
+- We buy a 3d printer from helloworld with our own money. ITG will give back the money when we get the sponser.
+  - Accepted by everyone
+
+** § Adjournment
+Meeting was adjourned at 15:55.
+
+
+
+
+
+
+
+
+
+
+
+
