@@ -1,0 +1,76 @@
+# Table of contents
+#+OPTIONS: toc:nil
+
+# Section numbering
+#+OPTIONS: num:nil
+
+# Number of headings to export
+#+OPTIONS: H:4
+
+# Disable super/subscripting
+#+OPTIONS: ^:nil
+
+* Board Meeting
+Board meeting protocol for IT-Gården. \\
+Organisation number: 802521-1387 \\
+Date: 2019-11-29 \\
+Time: 16:00\\
+Location: Videum Science Park\\
+
+** § 1 Opening
+Marcus welcomed everybody and meeting was opened.
+
+** § 2 Attendance
+# Fartun Jama
+# Marcus Mueller
+# Amata Anantaprayoon
+# Cristian Babes
+# Haneen Mohialdeen
+# Daniel Lundberg
+
+** § 3 Appoint meeting secretary
+<name> was appointed secretary for the meeting.
+
+** § 4 Approval of Agenda
+Agenda was approved.
+
+** § 5 Review of Previous Agenda
+
+** § 6 Make IT Happen Update
+
+** § 7 Opening Hours this Semester
+- Mondays: 15-17
+  - Not official so far
+  - Used as dedicated time to work with ITG related things, and to keep being a place for those showing interest so far
+
+** § 8 Preparing for Next Year
+- Wait with workshops and other activities until next semester
+- Focus on getting support from municipality and potentially more companies
+
+** § 8 Sponsor Agreement Document
+[[./sponsor_agreement/sponsor_avtal.pdf][Current Document]]
+
+** § 9 Defining and presenting ITG
+- We are now integrated in to Videum Science Park and the soon to be Innovation Center? What and for who will the innovation center be, and how can we be "complimentary"?
+  - What will we be, provide and do within this building?
+    - Helping Viduem Science Park by creating activity in the building
+    - Helping LNU by guiding youth in to available programs (Most importantly the new 5 year "MSc in Software Engineering")
+    - Be a constant place for young ppl, to awaken and improve technology/IT skills
+    - Create part-time jobs for LNU students, that relates to their studies.
+  - What are our focus groups? (Attract who?)
+
+- We need to be better at introducing ourselves and what we do.
+  - Create a ITG introductory presentation
+  - Use it in coming meetings with municipality
+
+** § 10 Yearly Meeting
+- Do we want/need one at the end of the year, or can we wait until March that has been decided to be the new month for this meeting?
+#+BEGIN_QUOTE
+Yearly meetings for electing the new board will be held in March. To give the newly elected time to learn from the old before end of spring semester.
+- Our Structure document
+#+END_QUOTE
+  
+** § 11 Other Business
+
+** § 12 Adjournment
+Meeting was adjourned.

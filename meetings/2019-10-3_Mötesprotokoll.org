@@ -1,0 +1,112 @@
+# Table of contents
+#+OPTIONS: toc:nil
+
+# Section numbering
+#+OPTIONS: num:nil
+
+# Number of headings to export
+#+OPTIONS: H:4
+
+# Disable super/subscripting
+#+OPTIONS: ^:nil
+
+* Board Meeting
+Board meeting protocol for IT-Gården. \\
+Organisation number: 802521-1387 \\
+Date: 2019-10-3 \\
+Time: 16:00\\
+Location: ITG Office\\
+
+** § 1 Opening
+Marcus welcomed everybody and meeting was opened.
+
+** § 2 Attendance
+# Fartun Jama
+# Marcus Mueller
+# Amata Anantaprayoon
+# Cristian Babes
+
+** § 3 Appoint meeting secretary
+Amata was appointed secretary for the meeting.
+
+** § 4 Approval of Agenda
+Agenda was approved.
+
+** § 5 Review of Previous Agenda
+- Summer Open
+- IT-garden web app
+- EduTech
+- Salaries and budget
+
+** § 6 Starting up the Workshop
+- What is needed for getting it up and running?
+  - Some more tools for electronics : Marcus will check with Daneil about Micro:bit and laptop.
+  - More material (lecture) for the 3D printer. We will start with some presentation about micro:bit. Then one of us gonna look for lecture
+
+- How and for who will we have these workshops for?
+We plan to start at 24/10 or after that week
+ - will divide them in 2 group
+    - KK members 
+    - summer camp member + some kids from Daneil?
+ - 2 hr for each openning, we might split it in two day. One for kids and one for adult.
+
+Marcus will talk with Videum if they can sponsors us or help us with marketing.
+
+- Monthly workshop that is public and free? 
+Move to next meeting, we need to try the first open
+- Having schools (kids or teachers) come and learn for a fee?
+Move to next meeting, we need to try the first open
+
+** § 7 Opening Hours
+- Why have we not decided yet?
+  - We havnen't gotten money for paying salaries, and just recently paid out salaries for previous hours (at Teknikum).
+  - It would be cool to open up with our new workshop in place, ready to be used by our "regulars" and all that come.
+
+** § 8 Getting kicked out from current office
+- Need to be out by 1/11
+- Videum would like for us to leave earlier than expected, as they have new renters coming.
+- We're in contact with Robert from Videum, that is currently trying to convince higher up bosses to give us permanent facilities in Videum Science Park. What has been said so far, is that we would not have to pay any rent noor write any other kind of contract; specifying what we'd have to do for "rent". So a simple "gentlemen's agreement" where we promise to help out with some activities and such.
+- 4/10/2019 we will meet with Videum and check new office. we might need to share the office with KK in worse case.
+
+** § 9 Creating a structure for ITG
+- A document for this has been created and shared before this meeting
+- To ensure the organisation keeps on running in the same direction; surviving when board members and key actors leaves
+- Documenting this structure and business plan, then sending to sponsors.
+- Should include what? (Suggestions):
+  - About the board, the roles and how to fulfill each one
+  - Collaborations
+  - Sponsors
+  - "Calendar" of what we do/host each year
+  - Future Plans
+  - Vision
+
+- Board meeting will hold the first week of each month. *We will vote about it on slack*
+- Create documents about each roll incase someone are leaving, the one that will replace know excekly what to do. PUT ON THE PDF.
+- Also need to right down when current board member will leave so we can prepare.
+- Ruslan will come up with more event and Marcus will add in the PDF -> send to Videum!
+- Create 2 channels for incoming Micro:bit event and something? 
+
+** § 10 Make IT Happen
+- Talking through this project. What and who will work with it, plus what they will do.
+
+** § 11 Digitala Kompetensdagen
+- Two from us should go there 10am-15pm, 29/10 . Who?
+- Who will create the code and set up with micro:bits that we'll showcase?
+  - So far we've recieved two "micro:bit inventor's kit" for this purpose, though we can ask for more things from Marcelo and Anders (CT teacher).
+  - These are payed working hours
+
+Marcus will talk with Marcelo about the Ardino
+** § 12 Other Business
+
+
+** § 13 Adjournment
+Meeting was adjourned.
+
+
+
+
+
+
+
+
+
