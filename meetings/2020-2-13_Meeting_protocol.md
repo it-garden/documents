@@ -55,11 +55,11 @@ TO DO:
 -  Link the poster to IT-Gården FB where more pictures, videos about it are presented to attract people
 -  Get Teknikum (and some other schools) to post about it as well.
 -  Write a more detailed plan and send it to Visma
-- Fix everybody's cal: https://calendar.google.com/calendar/ical/vpqlf0dn32cj4m7n6ghltmubpg%40group.calendar.google.com/private-813b8217ec517c8cc02654425203467c/basic.ics
 
-https://calendar.google.com/calendar/embed?src=vpqlf0dn32cj4m7n6ghltmubpg%40group.calendar.google.com&ctz=Europe%2FStockholm
+
+
 -Kraken Link:
-https://app.gitkraken.com/glo/board/XRnW3NFgZwAVbuyW	
+
 Update ITG presentation found at github> itg_info and 
 Build on powerpoint presentation for ITG
 Electing/Finding a new Auditor after fixing the budget
